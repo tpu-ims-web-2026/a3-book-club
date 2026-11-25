@@ -1,2 +1,2 @@
-# A3-Book-review-club
-Hilal Esma Sümeyra Karahan, Yağız Ezel
+# A3-book-club
+Hilal Karahan, Yağız Ezel
